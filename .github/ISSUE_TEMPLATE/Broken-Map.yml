@@ -28,13 +28,17 @@ body:
   - type: textarea
     id: details
     attributes:
-      label: What happened?
-      description: Please add additional details why this happened and how
+      label: What are the issues?
+      description: Any update blocks? Any broken chests?
   - type: checkboxes
     id: terms
     attributes:
-      label: No duplicates
-      description: By submitting this issue you agree that you have checked the issues for duplicates of yours.
+      label: Checklists
+      description: Agree to this.
       options:
         - label: I have checked the issues tab for duplicates
+          required: true
+        - label: This map exists in marketpi-repo
+          required: true
+        - label: The map I am using is from a version less than v0.9.0
           required: true
