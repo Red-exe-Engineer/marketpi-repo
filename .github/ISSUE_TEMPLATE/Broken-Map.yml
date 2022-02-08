@@ -1,0 +1,40 @@
+name: Broken Map
+description: Report a broken map
+title: "[Broken Map]: "
+labels: [Broken Map"]
+assignees:
+  - leha-code
+body:
+  - type: textarea
+    id: map
+    attributes:
+      label: What map were you on?
+      description: Also what version of the map?
+      placeholder: Skara Brae v6.9
+      value: "Prison Escape 2 v4.2.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: versions
+    attributes:
+      label: What versions are you seeing the problem on?
+      multiple: true
+      options:
+        - Pi
+        - Reborn
+        - PE V0.6.1
+        - Survival patch
+        - Reborn legacy
+  - type: textarea
+    id: details
+    attributes:
+      label: What happened?
+      description: Please add additional details why this happened and how
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: No duplicates
+      description: By submitting this issue you agree that you have checked the issues for duplicates of yours.
+      options:
+        - label: I have checked the issues tab for duplicates
+          required: true
