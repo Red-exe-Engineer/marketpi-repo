@@ -1,0 +1,182 @@
+{
+    "worlds": [
+        
+        {
+            "name": "Skyblock",
+            "codename": "Skyblock",
+            "description": "A skyblock world, ported to MCPI.",
+            "author": "mobilegmYT",
+            "version": "1.0",
+            "links": [],
+        },
+        {
+            "name": "Skara Brae",
+            "codename": "SkaraBrae",
+            "description": "There is an abandoned village on Orkney Islands at the north of Scotland. \n It was abandoned long ago, when the pyramids were just started to be built.\nIts name is Skara Brae. I made it for my history project. The license is Creative Commons Attribution 4.0.\nFeel free to explore the village. \n\nBonus: There are two more monuments to discover!",
+            "author": "LEHAtupointow",
+            "version": "1.0",
+            "links": [],
+        
+        },
+        {
+            "name": "Washing Machine",
+            "codename": "Washing Machine",
+            "description": "A redstone alternative washing machine\nIt works! It's not that good but I am working on improvements. It's just a small washing machine that uses alternative redstone to function.\nRules:\nAt the top of the machine there is a hole with a sign and red block.\nPlace sand (soap) onto red block.\nQuickly go to front of machine and watch water flow in the door.\nI have it delayed so you have time to see it flow.",
+            "author": "Temena",
+            "version": "1.0",
+            "links": ["https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1979084-working-redstone-alterantive-washing-machine"],
+        },
+        {
+            "name": "Redstone Alternatives",
+            "codename": "RedstoneAlternatives",
+            "description": "Redstone makes it possible for better interactive possibilities for creations you make. For example, you can create switches for gates to open and close them and many more things. Minecraft PE doesn't yet have the Redstone features but it shouldn't stop you from creating similar things. Even though it might not get as awesome as if you had Redstone this tutorial gives you great alternatives of what other things you can use to create similar setups.",
+            "author": "MCPEDL",
+            "version": "1.0",
+            "links": ["https://mcpedl.com/redstone/"],
+        },
+        {
+            "name": "Quest of the Assassin",
+            "codename": "QuestOfTheAssassin",
+            "description": "Hello, It's Target Practice! I am proud to present to you:\n\nQUEST OF THE ASSASSIN!\n\nA big adventure map inspired by Assassin's Creed!\n\nREAD EVERYTHING BEFORE DOWNLOAD!\n\nTHE STORYLINE:\n-You woke up in a small and dark room with no memory of who you were. Suddenly a voice spoke to you. It said that you have been\nkidnapped and you are in the kidnappers compound. You had to find a way out.",
+            "author": "TargetPractice",
+            "version": "1.0",
+            "links": ["https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1983658-quest-of-the-assassin-a-big-adventure-map"],
+        },
+        {
+            "name": "Canyons",
+            "codename": "Canyons",
+            "description": "Enjoy a nice ride in the canyons. Don't fall down! Original map by inHaze. Ported by MCPEPorts.",
+            "author": "MCPEPorts",
+            "version": "1.0",
+            "links": ["http://minecraftpeworlds.blogspot.com/2013/05/custom-terrain-map-pack-1.html?spref=tw"],
+        },
+        {
+            "name": "Columbia Bioshock Infinite",
+            "codename": "ColumbiaBioshockInfinite",
+            "description": "Map originally created by ilikecutepeople\n\nThe awesome floating city of Columbia.",
+            "author": "MCPEPorts",
+            "version": "1.0",
+            "links": ["https://minecraftpeworlds.blogspot.com/2013/05/bioshock-infinite-map-columbia.html"],
+        },
+        {
+            "name": "Debug",
+            "codename": "Debug",
+            "description": "A debug world, similiar to the Java Edition one.",
+            "author": "mobilegmYT",
+            "version": "1.0",
+            "links": [],
+            
+        },
+        {
+            "name": "Deep Ocean",
+            "codename": "DeepOcean",
+            "description": "Original map by inHaze. Ported by MCPEPorts",
+            "author": "MCPEPorts",
+            "version": "1.0",
+            "links": ["http://minecraftpeworlds.blogspot.com/2013/05/custom-terrain-map-pack-1.html?spref=tw"],
+        },
+        {
+            "name": "Defense of the throne",
+            "codename": "DefenseOfTheThrone",
+            "description": "Hello! It's Target Practice with my first ever Multiplayer minigame map,\n\nDEFENSE OF THE THRONE!\n\nIMPORTANT: READ EVERYTHING BEFORE DOWNLOAD!\n\nYou are a king who wants to reclaim your kingdom. To do that, you must take the Throne. But there are other kings who want the Throne.\nSo you must fight for it!\n\nMap Update!\n–Now you can go up the kingdom walls\n–Corrections for Throne room\n–Improved kingdom walls\n\nHow to play:\nYou will spawn at the Castle entrance. Go and find the Throne room. If you sit on the Throne, you get 2 points.\nWhen other players come, kill them so that they cannot take the Throne!\nIf you kill one player, you get 1 point.\nYou can play individually or play as a team. If you play as team, the points earned will be shared among the team, not individually.\nIf you see another player/team on the Throne, kill them and take the Throne!\nSet a time limit for the game. When the game is over, the player/team with the most points wins!\nIf it's a draw, keep playing until someone wins!\nIMPORTANT Rules:\n-Don't break any blocks\n-Don't place any blocks\n-Play on peaceful\n-Don't escape the map\n-No flying\n-No mods\n-You can't take the Throne if there are enemies in the Throne room.\n\nPlease follow these rules if you want to enjoy a nice game.\n\nMin players: 2\nMax players: 8",
+            "author": "TargetPractice",
+            "version": "1.0",
+            "links": ["https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1983582-defense-of-the-throne-pvp-multiplayer-minigame"],
+            
+        },
+        {
+            "name": "Dense Forest",
+            "codename": "DenseForest",
+            "description": "Original map by inHaze",
+            "author": "MCPEPorts",
+            "version": "1.0",
+            "links": ["http://minecraftpeworlds.blogspot.com/2013/05/custom-terrain-map-pack-1.html?spref=tw"],
+        },
+        {
+            "name": "Flat World",
+            "codename": "FlatWorld",
+            "description": "A superflat world. Best for custom maps.",
+            "author": "TheBoyLeastLikelyTo",
+            "version": "1.0",
+            "links": [],
+        },
+        {
+            "name": "Fortress",
+            "codename": "Fortress",
+            "description": "A walled fortress with moat and drawbridge",
+            "author": "TheBoyLeastLikelyTo",
+            "version": "1.0",
+            "links": [],
+            
+        },
+        {
+            "name": "Game of Death",
+            "codename": "GameOfDeath",
+            "description": "Hello! It's Target Practice here. This is my second adventure map - Game of Death!\nI've made a few improvements compared to the last map I made.\nIn this map, you will jump through the trees, fall down a spiralling Vortex and even get eaten by a dragon! It's filled with adventure, Parkour, puzzles, fighting and a slight bit of horror.\n\nBrief Summary of the story:\nYou were playing your favourite video game called Game of Life. Suddenly you felt sleepy and dizzy. You fell asleep. You woke up in a familiar place. Wait. It's Corelle Town from Game of Life! What were you doing here? Soon you realise that you had to get out, and the only way to do that is to beat the game. But once you die, you die in real life! This isn't Game of Life anymore.\nIt's a Game of Death.",
+            "author": "TargetPractice",
+            "version": "1.0",
+            "links": ["https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1983199-new-adventure-map-game-of-death"],
+        },
+        {
+            "name": "Hamster Escape maze",
+            "codename": "HamsterEscape",
+            "description": "The Hamster Escape! You are a little hamster stuck in his cage. Imprisoned by some evil girl. The maps is rather short but it is only part 1. Part 2 should be coming soon. Original creator is samuraicraft.",
+            "author": "MCPEPorts",
+            "version": "1.0",
+            "links": ["http://minecraftpeworlds.blogspot.com/2013/05/hamster-escape-part-1.html"],
+            
+        },
+        {
+            "name": "Hogwarts",
+            "codename": "Hogwarts",
+            "description": "WELCOME TO THE SCHOOL OF WITCHCRAFT AND WIZARDRY\n\nOriginal map created by khamelion81\nPorted by MCPEPorts \nI (MCPEPorts) have added some stuff to the map and made it into more of an adventure map. Hope you enjoy :)\n!",
+            "author": "MCPEPorts",
+            "version": "1.0",
+            "links": ["http://minecraftpeworlds.blogspot.com"],
+        
+        },
+        {
+            "name" : "Lava Citadel",
+            "codename": "LavaCitadel",
+            "description": "The last water source... Is kept in the exact center of the world... Everything is filled with lava... No more water...",
+            "author": "MCPEPorts",
+            "version": "1.0",
+            "links": [""],
+            
+        },
+        {
+            "name": "Call Of Duty: Modern Warfare 3 Seatown",
+            "codename": "ModernWarfare3Seatown",
+            "description": "Originally created by NiicKNumber1. Ported by MCPEPorts",
+            "author": "MCPEPorts",
+            "version": "1.0",
+            "links": ["http://minecraftpeworlds.blogspot.com/2012/11/modern-warfare-3-seatown.html"],
+        },
+        {
+            "name": "Nether Nightmare",
+            "codename": "Nether Nightmare",
+            "description": "Original map by inHaze",
+            "author": "MCPEPorts",
+            "version": "1.0",
+            "links": ["http://minecraftpeworlds.blogspot.com/2013/05/custom-terrain-map-pack-1.html?spref=tw"],
+        },
+        {
+            "name": "The Nether Reactor",
+            "codename": "NetherReactor",
+            "description": "Can you create ALL the nether reactors?",
+            "author": "SamuelB",
+            "version": "1.0",
+            "links": ["https://thebraithwaites.co.uk/minecraft-pi-edition-maps-texture-packs-survival-and-more/"],
+        },
+        {
+            "name": "The Nether Reactor Core History",
+            "codename": "NRC_History",
+            "description": "The history of the Nether Spire",
+            "author": "TheBoyLeastLikelyTO",
+            "version": "1.0",
+            "links": [],
+        },
+    
+    ]
+    
+}
