@@ -19,6 +19,7 @@ body:
     attributes:
       label: What versions are you seeing the problem on?
       multiple: true
+      required: true
       options:
         - Pi
         - Reborn
@@ -27,6 +28,7 @@ body:
         - Reborn legacy
   - type: textarea
     id: details
+    required: true
     attributes:
       label: What are the issues?
       description: Any update blocks? Any broken chests?
