@@ -34,9 +34,10 @@ Alongside your .zip file you must add an entry to `worlds.json`, but feel free t
 Servers are stored in a JSON format, with a IP address and a port number.
 
 ## [Seeds](seeds/)
-Seeds can be added to the table under the "Seed descriptions" heading of [README.md](https://github.com/MCPI-Revival/mcpi-repo/blob/main/seeds/README.md). Put your seed in the column labeled "Seed" and write a brief description about the world generated with your seed.
+Seeds can be added to the table under the "Seed descriptions" heading of [README.md](https://github.com/MCPI-Revival/mcpi-repo/blob/main/seeds/README.md). Put your seed in the column labeled "Seed" and write a brief descrir seed.
 
 ## [Resource Packs](texturepack/)
+
 Resource packs/texture packs are stored in the zip format. MOTE: As of now the texturepacks system does NOT work with mcpi-reborn's overrides system.
 
 More info can be found at [https://github.com/MCPI-Revival/mcpi-texturepack](https://github.com/MCPI-Revival/mcpi-texturepack).
