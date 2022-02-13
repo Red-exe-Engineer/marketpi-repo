@@ -1,2 +1,18 @@
+
+# World ownership. One world per line
+# YOU ARE NOT ALLOWED TO "OWN" SCREENSHOTS
+# ALL SCREENSHOTS ARE IN PUBLIC DOMAIN
+
 /worlds/worlds/SkaraBrae.zip @leha-code
-/worlds/shots/SkaraBrae.png @leha-code
+
+/worlds/worlds/OneBlock.zip @red-exe-engineer
+/worlds/worlds/OneChunk.zip @red-exe-engineer
+
+/worlds/worlds/Fortress.zip @TheBoyLeastLikelyTo
+/worlds/worlds/NRC_History.zip @TheBoyLeastLikelyTo
+/worlds/worlds/FlatWorld.zip @TheBoyLeastLikelyTo
+/worlds/worlds/VoidWorld.zip @TheBoyLeastLikelyTo
+
+# Texture pack stuff
+
+/pack/addpack.py @NikZapp
