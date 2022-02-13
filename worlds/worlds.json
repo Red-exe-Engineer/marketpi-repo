@@ -245,9 +245,9 @@
         {
             "name": "TNT Trouble",
             "codename": "TNTTrouble",
-            "description": "Ka-Boom",
+            "description": "One day, you wake up in a small rock room, with a chest and a bed. You have no idea how you got there. You stay in this room for many days, until a robot comes into the room.\nRobot: I will let you out on one condition.\nYou: What is that condition?\nRobot: That you undergo a number of tests. If you fail, you and your family will be killed.\nYou wonder what sort of a challenge it is.\nRobot: The doors will open at 10:00 pm tonight.\nYou count the minutes until ten, wondering what on earth is in store for you.\nWhen the hour is reached, the robot shows you into a stone room. In it, there is a ladder going down. You decend the ladder.\nTo your right there is a room showing which blocks you are allowed to break. To your right is the 'Challenge'...\n\n~~~~~~~~~~~~CHANGELOG~~~~~~~~~~~\nv1.1: Fix a lot of issues: Respawning on top of roof, fixed world name, added signs for story. by LEHAtupointow\nv1.0: Initial release by Samuel Braithwaite\nv0.1: a WIP map part found in files",
             "author": "SamuelB",
-            "versions": ["1.0"],
+            "versions": ["v0.1", "1.0", "v1.1"],
             "links": ["https://thebraithwaites.co.uk/minecraft-pi-edition-maps-texture-packs-survival-and-more/"],
         },
         {
