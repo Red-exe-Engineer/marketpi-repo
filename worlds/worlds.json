@@ -6,7 +6,7 @@
             "codename": "Skyblock",
             "description": "A skyblock world, ported to MCPI.",
             "author": "unknown",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": [],
         },
         {
@@ -14,7 +14,7 @@
             "codename": "SkaraBrae",
             "description": "There is an abandoned village on Orkney Islands at the north of Scotland. \n It was abandoned long ago, when the pyramids were just started to be built.\nIts name is Skara Brae. I made it for my history project. The license is Creative Commons Attribution 4.0.\nFeel free to explore the village. \n\nBonus: There are two more monuments to discover!",
             "author": "LEHAtupointow",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": [],
         
         },
@@ -23,7 +23,7 @@
             "codename": "Washing Machine",
             "description": "A redstone alternative washing machine\nIt works! It's not that good but I am working on improvements. It's just a small washing machine that uses alternative redstone to function.\nRules:\nAt the top of the machine there is a hole with a sign and red block.\nPlace sand (soap) onto red block.\nQuickly go to front of machine and watch water flow in the door.\nI have it delayed so you have time to see it flow.",
             "author": "Temena",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1979084-working-redstone-alterantive-washing-machine"],
         },
         {
@@ -31,7 +31,7 @@
             "codename": "RedstoneAlternatives",
             "description": "Redstone makes it possible for better interactive possibilities for creations you make. For example, you can create switches for gates to open and close them and many more things. Minecraft PE doesn't yet have the Redstone features but it shouldn't stop you from creating similar things. Even though it might not get as awesome as if you had Redstone this tutorial gives you great alternatives of what other things you can use to create similar setups.",
             "author": "MCPEDL",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["https://mcpedl.com/redstone/"],
         },
         
@@ -40,7 +40,7 @@
             "codename": "Canyons",
             "description": "Enjoy a nice ride in the canyons. Don't fall down! Original map by inHaze. Ported by MCPEPorts.",
             "author": "MCPEPorts",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["http://minecraftpeworlds.blogspot.com/2013/05/custom-terrain-map-pack-1.html?spref=tw"],
         },
         {
@@ -48,7 +48,7 @@
             "codename": "ColumbiaBioshockInfinite",
             "description": "Map originally created by ilikecutepeople\n\nThe awesome floating city of Columbia.",
             "author": "MCPEPorts",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["https://minecraftpeworlds.blogspot.com/2013/05/bioshock-infinite-map-columbia.html"],
         },
         {
@@ -56,7 +56,7 @@
             "codename": "Debug",
             "description": "A debug world, similiar to the Java Edition one.",
             "author": "unknown",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": [],
             
         },
@@ -65,7 +65,7 @@
             "codename": "DeepOcean",
             "description": "Original map by inHaze. Ported by MCPEPorts",
             "author": "MCPEPorts",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["http://minecraftpeworlds.blogspot.com/2013/05/custom-terrain-map-pack-1.html?spref=tw"],
         },
         {
@@ -73,7 +73,7 @@
             "codename": "DefenseOfTheThrone",
             "description": "Hello! It's Target Practice with my first ever Multiplayer minigame map,\n\nDEFENSE OF THE THRONE!\n\nIMPORTANT: READ EVERYTHING BEFORE DOWNLOAD!\n\nYou are a king who wants to reclaim your kingdom. To do that, you must take the Throne. But there are other kings who want the Throne.\nSo you must fight for it!\n\nMap Update!\n–Now you can go up the kingdom walls\n–Corrections for Throne room\n–Improved kingdom walls\n\nHow to play:\nYou will spawn at the Castle entrance. Go and find the Throne room. If you sit on the Throne, you get 2 points.\nWhen other players come, kill them so that they cannot take the Throne!\nIf you kill one player, you get 1 point.\nYou can play individually or play as a team. If you play as team, the points earned will be shared among the team, not individually.\nIf you see another player/team on the Throne, kill them and take the Throne!\nSet a time limit for the game. When the game is over, the player/team with the most points wins!\nIf it's a draw, keep playing until someone wins!\nIMPORTANT Rules:\n-Don't break any blocks\n-Don't place any blocks\n-Play on peaceful\n-Don't escape the map\n-No flying\n-No mods\n-You can't take the Throne if there are enemies in the Throne room.\n\nPlease follow these rules if you want to enjoy a nice game.\n\nMin players: 2\nMax players: 8",
             "author": "TargetPractice",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1983582-defense-of-the-throne-pvp-multiplayer-minigame"],
             
         },
@@ -82,7 +82,7 @@
             "codename": "DenseForest",
             "description": "Original map by inHaze",
             "author": "MCPEPorts",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["http://minecraftpeworlds.blogspot.com/2013/05/custom-terrain-map-pack-1.html?spref=tw"],
         },
         {
@@ -90,7 +90,7 @@
             "codename": "FlatWorld",
             "description": "A superflat world. Best for custom maps.",
             "author": "TheBoyLeastLikelyTo",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": [],
         },
         {
@@ -98,7 +98,7 @@
             "codename": "Fortress",
             "description": "A walled fortress with moat and drawbridge",
             "author": "TheBoyLeastLikelyTo",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": [],
             
         },
@@ -107,7 +107,7 @@
             "codename": "GameOfDeath",
             "description": "Hello! It's Target Practice here. This is my second adventure map - Game of Death!\nI've made a few improvements compared to the last map I made.\nIn this map, you will jump through the trees, fall down a spiralling Vortex and even get eaten by a dragon! It's filled with adventure, Parkour, puzzles, fighting and a slight bit of horror.\n\nBrief Summary of the story:\nYou were playing your favourite video game called Game of Life. Suddenly you felt sleepy and dizzy. You fell asleep. You woke up in a familiar place. Wait. It's Corelle Town from Game of Life! What were you doing here? Soon you realise that you had to get out, and the only way to do that is to beat the game. But once you die, you die in real life! This isn't Game of Life anymore.\nIt's a Game of Death.",
             "author": "TargetPractice",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1983199-new-adventure-map-game-of-death"],
         },
         {
@@ -115,7 +115,7 @@
             "codename": "HamsterEscape",
             "description": "The Hamster Escape! You are a little hamster stuck in his cage. Imprisoned by some evil girl. The maps is rather short but it is only part 1. Part 2 should be coming soon. Original creator is samuraicraft.",
             "author": "MCPEPorts",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["http://minecraftpeworlds.blogspot.com/2013/05/hamster-escape-part-1.html"],
             
         },
@@ -124,7 +124,7 @@
             "codename": "Hogwarts",
             "description": "WELCOME TO THE SCHOOL OF WITCHCRAFT AND WIZARDRY\n\nOriginal map created by khamelion81\nPorted by MCPEPorts \nI (MCPEPorts) have added some stuff to the map and made it into more of an adventure map. Hope you enjoy :)\n!",
             "author": "MCPEPorts",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["http://minecraftpeworlds.blogspot.com"],
         
         },
@@ -133,7 +133,7 @@
             "codename": "LavaCitadel",
             "description": "The last water source... Is kept in the exact center of the world... Everything is filled with lava... No more water...",
             "author": "MCPEPorts",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": [""],
             
         },
@@ -142,7 +142,7 @@
             "codename": "ModernWarfare3Seatown",
             "description": "Originally created by NiicKNumber1. Ported by MCPEPorts",
             "author": "MCPEPorts",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["http://minecraftpeworlds.blogspot.com/2012/11/modern-warfare-3-seatown.html"],
         },
         {
@@ -150,7 +150,7 @@
             "codename": "Nether Nightmare",
             "description": "Original map by inHaze",
             "author": "MCPEPorts",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["http://minecraftpeworlds.blogspot.com/2013/05/custom-terrain-map-pack-1.html?spref=tw"],
         },
         {
@@ -158,7 +158,7 @@
             "codename": "NetherReactor",
             "description": "Can you create ALL the nether reactors?",
             "author": "SamuelB",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["https://thebraithwaites.co.uk/minecraft-pi-edition-maps-texture-packs-survival-and-more/"],
         },
         {
@@ -166,7 +166,7 @@
             "codename": "NRC_History",
             "description": "The history of the Nether Spire",
             "author": "TheBoyLeastLikelyTo",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": [],
         },
         {
@@ -174,7 +174,7 @@
             "codename": "OneBlock",
             "description": "The one block challenge.",
             "author": "Wallee",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["https://www.youtube.com/channel/UCzAOB6RwvO5PWjLsuFNJ4MQ"],
         },
         {
@@ -182,7 +182,7 @@
             "codename": "OneChunk",
             "description": "The one chunk challenge.",
             "author": "Wallee",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["https://www.youtube.com/channel/UCzAOB6RwvO5PWjLsuFNJ4MQ"],
         },
         {
@@ -190,7 +190,7 @@
             "codename": "ParadiseCove",
             "description": "Original map by inHaze",
             "author": "MCPEPorts",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["http://minecraftpeworlds.blogspot.com/2013/05/custom-terrain-map-pack-1.html?spref=tw"],
         },
         
@@ -199,7 +199,7 @@
             "codename": "PrisonEscape2",
             "description": "This is the second part of the fun Prison Escape series. Unfortunately, the first part has been long lost.\n\nThe second part of Prison Escape is funnier because the buildings and just the overall impression of the entire map is much better. The story is quite easy.\n\nYou are stuck in a prison and want to escape.. find a way out!\n\nRules\n\nDon't break any blocks (allowed to break cobweb, beds, coal, diamond, gold, iron, torches)\nMust be played on hard\nYou are only allowed to craft armor, swords, pickaxes and torches\nSet a spawn point before starting\nCreator: SteffenNL",
             "author": "SteffenNL",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["https://mcpedl.com/prison-escape-2/"],
         },
         {
@@ -207,7 +207,7 @@
             "codename": "QuestOfTheAssassin",
             "description": "Hello, It's Target Practice! I am proud to present to you:\n\nQUEST OF THE ASSASSIN!\n\nA big adventure map inspired by Assassin's Creed!\n\nREAD EVERYTHING BEFORE DOWNLOAD!\n\nTHE STORYLINE:\n-You woke up in a small and dark room with no memory of who you were. Suddenly a voice spoke to you. It said that you have been\nkidnapped and you are in the kidnappers compound. You had to find a way out.",
             "author": "TargetPractice",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1983658-quest-of-the-assassin-a-big-adventure-map"],
         },
         {
@@ -215,7 +215,7 @@
             "codename": "Spaceship",
             "description": "Spaceship, who-oo!",
             "author": "unknown",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": [],
         },
         {
@@ -223,7 +223,7 @@
             "codename": "TempleOfNotch",
             "description": "Fully working Temple of Notch for Pocket Edition.\n\nBased on the PC version by Disco\n\nIf you post a video of this on youtube please include this blog in description :) (Link in links)",
             "author": "MCPEports",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["http://minecraftpeworlds.blogspot.com/p/temple-of-notch.html", "https://www.youtube.com/watch?v=sFJulzopGpA"],
         },
         {
@@ -231,7 +231,7 @@
             "codename": "TheIsland",
             "description": "Original map by Noobalid",
             "author": "MCPEPorts",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["http://minecraftpeworlds.blogspot.com/2013/05/custom-terrain-map-pack-1.html?spref=tw"],
         },
         {
@@ -239,7 +239,7 @@
             "codename": "TheUnderground",
             "description": "What is hidden, deep below ground?",
             "author": "unknown",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["https://thebraithwaites.co.uk/minecraft-pi-edition-maps-texture-packs-survival-and-more/"],
         },
         {
@@ -247,7 +247,7 @@
             "codename": "TNTTrouble",
             "description": "Ka-Boom",
             "author": "SamuelB",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["https://thebraithwaites.co.uk/minecraft-pi-edition-maps-texture-packs-survival-and-more/"],
         },
         {
@@ -255,7 +255,7 @@
             "codename": "VoidWorld",
             "description": "A void world. Best for custom maps.",
             "author": "TheBoyLeastLikelyTo",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": [],
         },
         {
@@ -263,7 +263,7 @@
             "codename": "Volcano",
             "description": "A big volcano!",
             "author": "MCPEPorts",
-            "version": "1.0",
+            "versions": ["1.0"],
             "links": ["http://minecraftpeworlds.blogspot.com/2013/04/volcano.html"],
         },
         
