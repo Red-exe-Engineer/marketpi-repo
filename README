@@ -1,3 +1,31 @@
-This repo is a big mess rn, please come back later.
-Pulls are not accepted rn. DM LEHAtupointow#9724 on discord to get your file/seed into the repo.
-A lot of stuff taken from mcpi-revival/mcpi-repo
+This is the repository for the upcoming MarketPi client.
+JSON:
+Worlds: {==========} COMPLETE
+Seeds: [==          ] BROKEN
+Texture packs: [          ] NOT STARTED
+
+~~~~~~~~~~Submitting a world~~~~~~~~~~
+Your world must contain ONLY these files:
+- level.dat
+- chunks.dat
+- entities.dat
+- levelname.txt # The world name, This is allowed however not recommended. use MCPIedit instead.
+
+It MUST NOT CONTAIN THESE FILES OR DIRECTORIES
+- level_old.dat
+- players/
+- <log files>
+- <Any other file or directory>
+
+All this must be wrapped into a directory inside the ZIP named as <worldnamewithoutspaces>_v<version>.zip. The directory can be any name you like, but it better relate to the world.
+
+You MUST add a screenshot and add a JSON entry when you add a world.
+
+Worlds go into /worlds/worlds/
+Screenshots go into /worlds/shots
+JSON goes into /worlds/worlds.json
+
+
+~~~~~~~~~~OTHER~~~~~~~~~~
+DO NOT SUBMIT OTHER CONTENT TO THIS REPO YET!
+
