@@ -386,6 +386,19 @@
             "links":[
                 "http://minecraftpeworlds.blogspot.com/2013/04/volcano.html"
             ]
+        },
+        {
+            "name":"Toy Story 2",
+            "codename":"ToyStory2",
+            "description":"All the instructions for the game are on signs inside the game. Enjoy!\n\nMade for 1-4 Players\n\nThis map was originally built by PitchBlackPL. I have spent the last few weeks making it completely compatible for Minecraft Pocket.\n\n\nNOTE: If you make a lets play on youtube please include the original creators info : http://www.planetminecraft.com/member/pitchblackpl/ \nhttp://www.youtube.com/user/pitchOlogia\nAnd please Include a link to this site. \nAlso post it in comments and I might include it on this page!.",
+            "author":"MCPEPorts",
+            "versions":[
+                "1.2"
+            ],
+            "links":[
+                "http://minecraftpeworlds.blogspot.com/p/toy-story-2-mcpe.html",
+                "https://youtu.be/VKZpH7RCQgE"
+            ]
         }
     ]
 }
