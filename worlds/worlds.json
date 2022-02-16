@@ -26,7 +26,7 @@
         },
         {
             "name":"Washing Machine",
-            "codename":"Washing Machine",
+            "codename":"WashingMachine",
             "description":"A redstone alternative washing machine\nIt works! It's not that good but I am working on improvements. It's just a small washing machine that uses alternative redstone to function.\nRules:\nAt the top of the machine there is a hole with a sign and red block.\nPlace sand (soap) onto red block.\nQuickly go to front of machine and watch water flow in the door.\nI have it delayed so you have time to see it flow.",
             "author":"Temena",
             "versions":[
