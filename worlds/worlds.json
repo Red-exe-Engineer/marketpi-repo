@@ -426,7 +426,19 @@
                 "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1977891-update-v-1-5-9-build-2-fire-spread-issue-fixed"
                 
             ]
-        }
+        },
+        {
+            "name":"Parkour For NOOBS!",
+            "codename":"ParkourForNoobs",
+            "description":"Parkour For Noobs\nhave you always failed parkour\nwell finally there is a parkour which is easily possible even a noob could do it.\n\nRules:\n- no breaking blocks\n- no placing blocks\n- no mods\n- diamonds are points\n- HAVE FUN :D",
+            "author":"MinecraftPEMaps",
+            "versions":[
+                "1.0"
+            ],
+            "links":[
+                "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1977177-parkour-for-noobs-download-link-available"
+            ]
+        },
         
         
     ]
