@@ -450,6 +450,18 @@
             "links":[
                 "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1981813-super-mario-galaxy-map-and-the-grand-aqua-panda"
             ]
+        },
+        {
+            "name":"Super Mario Galaxy Pi",
+            "codename":"SuperMarioGalaxy",
+            "description":"One of the best maps! Play in peaceful unless it's obvious that to turn it off. Die to spawn on the spawnpoint.",
+            "author":"PythonDoesMCPE",
+            "versions":[
+                "1.0"
+            ],
+            "links":[
+                "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1981813-super-mario-galaxy-map-and-the-grand-aqua-panda"
+            ]
         }
         
         
