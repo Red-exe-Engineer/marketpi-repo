@@ -439,6 +439,18 @@
                 "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1977177-parkour-for-noobs-download-link-available"
             ]
         },
+        {
+            "name":"Aqua Panda Park",
+            "codename":"AquaPandaPark",
+            "description":"A nice waterpark!",
+            "author":"PythonDoesMCPE",
+            "versions":[
+                "1.0"
+            ],
+            "links":[
+                "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1981813-super-mario-galaxy-map-and-the-grand-aqua-panda"
+            ]
+        }
         
         
     ]
