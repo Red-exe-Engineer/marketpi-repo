@@ -40,4 +40,6 @@ WhereIsSanta
 CristmassSnowGlobe
 PeppermintHill
 SuperMarioGalaxy
+OneBlock-ByWallee
+ColerfullSuperflat
 Debug
