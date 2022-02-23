@@ -1,4 +1,4 @@
-001
+002
 WashingMachine
 FlatWorld
 ParadiseCove
@@ -36,4 +36,8 @@ DeepOcean
 Spaceship
 NRC_History
 OneChunk
+WhereIsSanta
+CristmassSnowGlobe
+PeppermintHill
+SuperMarioGalaxy
 Debug
