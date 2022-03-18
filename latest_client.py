@@ -26,13 +26,6 @@ with open("user_index.txt", "r") as file:
     content = file.readlines()
 content = content[1:]
 
-print("\nContent\n")
-for line in content:
-    if line.endswith("\n"):
-        print(line[:-1])
-    else:
-        print(line)
-
 # Define a thumbnail updating method
 def updateThunbnail():
     try:
